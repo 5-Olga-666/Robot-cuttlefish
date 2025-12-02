@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('STEP AP203'),
     '1');
-FILE_NAME('Δεςΰλό2',
+FILE_NAME('Γ„Γ¥Γ²Γ Γ«ΓΌ2',
     '',
     ('UNSPECIFIED'),
     ('UNSPECIFIED'),
@@ -1287,3 +1287,4 @@ REPRESENTATION_ITEM(''));
 #1255=DIRECTION('',(0.,0.,-1.));
 ENDSEC;
 END-ISO-10303-21;
+
